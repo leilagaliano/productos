@@ -7,7 +7,11 @@ align-items:center;
 padding:15px 40px;
 box-shadow:0 2px 8px rgba(0,0,0,0.1);
 }
-
+.productos{
+display:grid;
+grid-template-columns: repeat(4,1fr);
+gap:20px;
+}
 .logo{
 font-size:22px;
 font-weight:bold;
@@ -106,3 +110,4 @@ text-align:center;
 padding:25px;
 margin-top:40px;
 }
+
