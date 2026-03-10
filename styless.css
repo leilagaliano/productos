@@ -1,6 +1,6 @@
 
 header{
-background:pink;
+background:white;
 display:flex;
 justify-content:space-between;
 align-items:center;
@@ -155,5 +155,6 @@ margin-top:40px;
 body{
 background:#f7d2e6;
 }
+
 
 
